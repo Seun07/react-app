@@ -1,0 +1,23 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "This is a react programming language project using nodes.js as the backend web framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seun07/react-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seun07/react-app/issues"
+  },
+  "homepage": "https://github.com/Seun07/react-app#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
