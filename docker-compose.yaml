@@ -1,0 +1,11 @@
+version: '3.3'
+services:
+  react-app:
+    build: .
+    image: seun0706/seunimg
+    restart: unless-stopped
+    privileged: true
+    user: root
+    ports:
+      - 3000:3000
+    container_name: seun-container
